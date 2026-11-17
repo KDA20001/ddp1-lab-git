@@ -1,2 +1,5 @@
 print("Hello, git!")
-print("KDA/n2606805840")
+name = input("Input Nama: ")
+npm = input("Input NPM: ")
+print(name)
+print(npm)
